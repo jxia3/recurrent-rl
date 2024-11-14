@@ -1,0 +1,6 @@
+distrax==0.1.5
+flax==0.10.1
+gymnax==0.0.8
+jax[cpu]==0.4.35
+matplotlib==3.9.2
+optax==0.2.4
